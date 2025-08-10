@@ -1,91 +1,50 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Im5yaf49)
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Portfolio Website
+Live project: https://rubansi.netlify.app/
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+## Project Overview
+This project is a personal portfolio website showcasing the skills, experience, and projects of Rubansi Vincent, a passionate Full Stack Developer with 3 years of experience. The portfolio serves as an online professional presence to highlight expertise in front-end and back-end web development.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+The website is designed to be clean, responsive, and easy to navigate, making it simple for potential employers, collaborators, or clients to learn more about the developer’s background and work.
 
----
+## Features
+- Professional summary and developer introduction.
+- Detailed work experience section.
+- Showcase of additional projects.
+- Clean and responsive design for desktop and mobile devices.
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (if applicable - based on the HTML)
+- Responsive web design principles
 
-Before you write any code, take time to plan:
+## Developer Profile Highlighted in the Website
+**Name:** Rubansi Vincent  
+**Role:** Full Stack Developer  
+**Experience:** 3 Years  
+**Specialization:** Building efficient, scalable, and user-friendly full-stack web applications.
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+## Professional Experience Highlighted
+- **TechCorp Solutions** (2022 - Present)  
+  Involved in full-stack development projects.
+  
+- **Digital Innovations Inc** (2020 - 2022)  
+  Developed team collaboration tools with real-time update features.
 
-**Goal:** Show intentional structure and user journey across the site.
+## How to Use
+- Simply open the `index.html` file in any modern web browser to view the portfolio.
+- The site is static and does not require a backend to function.
 
----
+## Customization
+To customize this portfolio website:
+- Modify the content inside the `index.html` file to update personal information, skills, and experiences.
+- Update styles in the CSS section or linked stylesheet to change the design.
+- Add or remove projects or sections as needed.
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
-
----
-
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+## Contact
+For any inquiries or collaborations, please reach out to Rubansi Vincent through contact information provided on the website.
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+Thank you for visiting this portfolio website!
 
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
